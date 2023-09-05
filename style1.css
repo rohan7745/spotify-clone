@@ -141,7 +141,8 @@ a {
   margin-left: 170px;
  }
  .long:hover{
-  background-color:#202222;
+  background-color: #383838;
+  cursor: pointer;
  }
  .time img{
   height: 25px;
