@@ -1,10 +1,4 @@
-:root {
-    --black: #000;
-    --grey: #121212;
-    --light-grey: #232323;
-    --white: #fff;
-  }
-  body,
+ body,
   html {
     height: 100%;
     margin: 0rem;
